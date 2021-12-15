@@ -1,0 +1,38 @@
+
+
+
+.texte {
+    display: flex;
+flex-direction: column;}
+
+
+.contour {
+    border:1px solid black;
+    display: flex;
+    flex-direction: row;
+
+    
+    
+}
+
+
+section {
+    display: flex;
+    height: 100%;
+
+}
+
+
+ul {
+    list-style: none
+}
+
+
+img {
+    display: block;
+    border: 5px solid white;
+    position : relative;
+    float:left ;
+    border-radius: 5px;
+    height: auto;
+}
